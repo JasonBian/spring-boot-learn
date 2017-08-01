@@ -1,0 +1,7 @@
+# hive 数据源自定义配置  
+hive:  
+  url: jdbc:hive2://192.168.10.99:10000/default  
+  type: com.alibaba.druid.pool.DruidDataSource  
+  driver-class-name: org.apache.hive.jdbc.HiveDriver  
+  username: hive  
+  password: hive
