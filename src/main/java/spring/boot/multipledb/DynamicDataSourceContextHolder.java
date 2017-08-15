@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.multipledb;
+package spring.boot.multipledb;
 
 import java.util.ArrayList;
 import java.util.List;

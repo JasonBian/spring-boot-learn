@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.quickstart;
+package spring.boot.quickstart;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

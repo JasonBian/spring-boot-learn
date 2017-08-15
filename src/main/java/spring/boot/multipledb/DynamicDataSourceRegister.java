@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.multipledb;
+package spring.boot.multipledb;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -19,7 +19,6 @@ import org.springframework.core.convert.support.DefaultConversionService;
 import org.springframework.core.env.Environment;
 import org.springframework.core.type.AnnotationMetadata;
 import org.springframework.scheduling.annotation.EnableScheduling;
-import org.springframework.scheduling.annotation.Scheduled;
 
 @EnableScheduling
 public class DynamicDataSourceRegister implements ImportBeanDefinitionRegistrar, EnvironmentAware {

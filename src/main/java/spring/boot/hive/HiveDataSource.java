@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.quickstart;
+package spring.boot.hive;
 
 import javax.sql.DataSource;
 

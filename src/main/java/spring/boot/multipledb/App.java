@@ -1,7 +1,6 @@
-package com.getui.bi.spring.boot.multipledb;
+package spring.boot.multipledb;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;
 

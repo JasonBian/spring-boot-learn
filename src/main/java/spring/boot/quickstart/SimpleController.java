@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.quickstart;
+package spring.boot.quickstart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

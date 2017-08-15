@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.multipledb;
+package spring.boot.multipledb;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

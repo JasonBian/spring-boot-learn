@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.multipledb.test;
+package spring.boot.multipledb.test;
 
 import javax.annotation.Resource;
 

@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.multipledb;
+package spring.boot.multipledb;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 

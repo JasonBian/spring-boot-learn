@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.multipledb;
+package spring.boot.multipledb;
 
 
 import org.aspectj.lang.JoinPoint;

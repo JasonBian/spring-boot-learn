@@ -1,8 +1,8 @@
-package com.getui.bi.spring.boot.multipledb.test;
+package spring.boot.multipledb.test;
 
 import org.springframework.stereotype.Service;
 
-import com.getui.bi.spring.boot.multipledb.TargetDataSource;
+import spring.boot.multipledb.TargetDataSource;
 
 import java.util.List;
 

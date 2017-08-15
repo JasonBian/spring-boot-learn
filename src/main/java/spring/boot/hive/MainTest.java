@@ -1,4 +1,4 @@
-package com.getui.bi.spring.boot.quickstart;
+package spring.boot.hive;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
