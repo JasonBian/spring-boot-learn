@@ -13,11 +13,10 @@ import com.alibaba.druid.pool.DruidDataSource;
 
 @Configuration
 public class HiveDataSource {
-
-	@Autowired
-	private Environment env;
+    @Autowired
+    private Environment env;
 	
-	@Bean(name = "hiveJdbcDataSource")  
+    @Bean(name = "hiveJdbcDataSource")  
     @Qualifier("hiveJdbcDataSource")  
     public DataSource dataSource() {  
         DruidDataSource dataSource = new DruidDataSource();  
